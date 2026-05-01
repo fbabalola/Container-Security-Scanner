@@ -1,0 +1,7 @@
+# Container Security Scanner Dependencies
+# Python 3.8+ required
+ 
+# No external Python dependencies required - uses standard library only
+# Trivy must be installed separately:
+#   macOS: brew install aquasecurity/trivy/trivy
+#   Linux: curl -sfL https://raw.githubusercontent.com/aquasecurity/trivy/main/contrib/install.sh | sh -s -- -b /usr/local/bin
